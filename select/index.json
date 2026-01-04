@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Darling you",
+  "base_artist": "汐れいら",
+  "createdAt": "2026-01-04T16:03:36.306666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Darling You",
+      "artist": "The Bright Light Social Hour",
+      "has_synced": false,
+      "path": "select/01_Darling_You_The_Bright_Light_Social_Hour.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Darling You",
+      "artist": "The Bright Light Social Hour",
+      "has_synced": true,
+      "path": "select/02_Darling_You_The_Bright_Light_Social_Hour.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Darling, You Can't Walk Away",
+      "artist": "Ark Patrol",
+      "has_synced": true,
+      "path": "select/03_Darling,_You_Can't_Walk_Away_Ark_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Darling You Are...",
+      "artist": "Songs: Ohia",
+      "has_synced": false,
+      "path": "select/04_Darling_You_Are..._Songs__Ohia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Darling You Are",
+      "artist": "Songs: Ohia",
+      "has_synced": false,
+      "path": "select/05_Darling_You_Are_Songs__Ohia.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Darling You Know I Love You (Live)",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/06_Darling_You_Know_I_Love_You_(Live)_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Darling You Know I Love You",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/07_Darling_You_Know_I_Love_You_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Darling, You Are Still Around",
+      "artist": "L.A. Salami",
+      "has_synced": true,
+      "path": "select/08_Darling,_You_Are_Still_Around_L.A._Salami.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Darling, You Know I Wouldn’t Lie to You",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/09_Darling,_You_Know_I_Wouldn’t_Lie_to_You_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Darling You",
+      "artist": "Hostage Calm",
+      "has_synced": false,
+      "path": "select/10_Darling_You_Hostage_Calm.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Darling You",
+      "artist": "Julia Westlin",
+      "has_synced": false,
+      "path": "select/11_Darling_You_Julia_Westlin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Darling You",
+      "artist": "Bernard Park",
+      "has_synced": true,
+      "path": "select/12_Darling_You_Bernard_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Darling You Know I Love You",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/13_Darling_You_Know_I_Love_You_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Darling you",
+      "artist": "汐れいら",
+      "has_synced": true,
+      "path": "select/14_Darling_you_汐れいら.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Darling, You Know I Wouldn't Lie",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/15_Darling,_You_Know_I_Wouldn't_Lie_Conway_Twitty.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Darling you",
+      "artist": "汐れいら",
+      "has_synced": false,
+      "path": "select/pl_01_Darling_you_汐れいら.txt"
+    }
+  ]
+}
